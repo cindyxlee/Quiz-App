@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Baloo Bhai', cursive;
+}
+
+header {
+  width: 100%;
+  padding-top: 50px;
+}
+
+header ul li {
+  display: inline-block;
+  list-style: none;
+  font-size: 20px;
+}
+
+.qNum {
+  float: left;
+  padding-left: 20px;
+}
+
+.currentScore {
+  float: right;
+  padding-right: 20px;
+}
+
+.begin {
+  display: block;
+  padding-top: 225px;
+}
